@@ -29,4 +29,4 @@ data/
 
 ## Uso de IA
 
-Conforme a **Resolução CONSUN PUCPR 274/2024**: quando ferramentas de IA forem usadas no preparo da entrega, o uso é **declarado** no relatório final (modelo institucional). A IA **não** é listada como autora. A responsabilidade pelo conteúdo é dos integrantes do grupo.
+Conforme a **Resolução CONSUN PUCPR 274/2024**: quando ferramentas de IA forem usadas no preparo da entrega, o uso é **declarado** no relatório final (modelo institucional). A IA **não** é listada como autora. A responsabilidade pelo conteúdo é do autor do trabalho.
